@@ -12,7 +12,6 @@ A program egyelőre nem rendelkezik önálló `.exe` fájllal. A futtatáshoz Py
 ### 1. Klónozd a repót
 
 git clone https://github.com/Syrayama/XZIY3B_Szakdolgozat
-cd F11
 
 ### 2. Telepítsd a szükséges csomagokat
 pip install -r requirements.txt
