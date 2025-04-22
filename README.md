@@ -1,6 +1,6 @@
 # F1_24: Telemetriai adatok elemzése az F1 24 játékból
 
-Ez a Python-alapú alkalmazás az F1 2024 szimulátorjátékból származó telemetriai adatokat gyűjti, elemzi és vizualizálja. A cél, hogy a játékosok számára is közérthető formában mutasson rá a vezetési teljesítményt befolyásoló tényezőkre. Az adatfeldolgozás során adatbányászati és gépi tnaulási algoritmusok, névszerint a **K-means klaszterezés** és a **CART döntési fa** kerülnek alkalmazásra.
+Ez a Python-alapú alkalmazás az F1 2024 szimulátorjátékból származó telemetriai adatokat gyűjti, elemzi és vizualizálja. A cél, hogy a játékosok számára is közérthető formában mutasson rá a vezetési teljesítményt befolyásoló tényezőkre. Az adatfeldolgozás során adatbányászati és gépi tanulási algoritmusok, névszerint a **K-means klaszterezés** és a **CART döntési fa** kerülnek alkalmazásra.
 
 A program hasznos eszköz lehet a *game analytics* megközelítésben, akár fejlesztőknek, akár szimulátorral játszó versenyzőknek, akik gyorsabb köridőket szeretnének elérni vagy jobban megérteni saját teljesítményüket.
 
