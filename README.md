@@ -29,8 +29,8 @@ Az Elemzés gombra kattintva elkezdődik a háttérben az algoritmusok lefuttat�
 A lenyíló menüből válassz a szakaszok közül.
 
 ### 7. Elemzések emgtekintése
-Megjelennek az elemzések, vizualizációk és tancsok 3 különböző ablakban.
+Megjelennek az elemzések, vizualizációk és tanácsok 3 különböző ablakban.
 
 ### 8. Legyél gyorsabb
-Próbáld ki a pályán a kapott tanácsokat és ekrülj a többiek elé!
+Próbáld ki a pályán a kapott tanácsokat és kerülj a többiek elé!
 Jó körözést!
